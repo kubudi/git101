@@ -1,4 +1,4 @@
 + github
 + origin
-* push
-- pull
++ push
+* pull
