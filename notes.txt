@@ -3,5 +3,5 @@
 + commit
 + diff
 + log
-* branch
-- overview
++ branch
+* overview
