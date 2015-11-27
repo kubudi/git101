@@ -1,7 +1,7 @@
 + init
 + add
-* commit
-- diff
++ commit
+* diff
 - log
 - branch
 - overview
