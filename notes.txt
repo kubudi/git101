@@ -1,4 +1,4 @@
 + github
-* fork
-- clone
++ fork
+* clone
 - pr
