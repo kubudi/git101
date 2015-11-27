@@ -1,6 +1,6 @@
 + init
-* add
-- commit
++ add
+* commit
 - diff
 - log
 - branch
