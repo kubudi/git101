@@ -4,4 +4,4 @@
 + setup check
 + local
 + remote
-* collaboration
++ collaboration

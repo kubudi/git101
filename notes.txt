@@ -1,4 +1,10 @@
-+ github
-+ fork
-+ clone
-* pr
+- ssh
+- conflict
+- amend
+- reset
+- stash
+- cherry-pick
+- gitignore
+- gitconfig
+- ssh
+- gist
