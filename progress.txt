@@ -3,5 +3,5 @@
 + ingilizce
 + setup check
 + local
-* remote
-- collaboration
++ remote
+* collaboration
