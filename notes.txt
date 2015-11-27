@@ -1,7 +1,4 @@
-+ init
-+ add
-+ commit
-+ diff
-+ log
-+ branch
-* overview
+- github
+- origin
+- push
+- pull

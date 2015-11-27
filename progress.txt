@@ -2,6 +2,6 @@
 + speak up
 + ingilizce
 + setup check
-* local
-- remote
++ local
+* remote
 - collaboration
