@@ -1,6 +1,6 @@
 + git nedir?
-* speak up
-- ingilizce
++ speak up
+* ingilizce
 - setup check
 - local
 - remote
