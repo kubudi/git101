@@ -1,16 +1,3 @@
-- sektorde yeri
-  - global ortak dil istegi
-    - us-kolombiya-vietnam-turkiye
-    - iletisim
-  - terim karmasasi
-    - pr
-- dilin korunmasi
-  - yabanci terimler
-    - baskalastirmak
-    - komputer
-    - kolaborasyon
-    - komunikasyon
-    - tip
-  - olani degismek
-  - anlamsal butunluk
-    - pr
+- git kurulumu
+- cli
+- github hesabi
