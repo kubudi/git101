@@ -1,7 +1,7 @@
 + git nedir?
 + speak up
 + ingilizce
-* setup check
-- local
++ setup check
+* local
 - remote
 - collaboration

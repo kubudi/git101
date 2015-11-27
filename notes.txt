@@ -1,3 +1,7 @@
-- git kurulumu
-- cli
-- github hesabi
+- init
+- add
+- commit
+- diff
+- log
+- branch
+- overview
