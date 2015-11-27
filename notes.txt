@@ -1,0 +1,8 @@
+- vcs
+  - svn
+  - mercurial
+- linus
+- ihtiyac
+  - duzen
+  - isbirligi
+  - iletisim
