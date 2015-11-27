@@ -1,5 +1,5 @@
-* git nedir?
-- speak up
++ git nedir?
+* speak up
 - ingilizce
 - setup check
 - local
